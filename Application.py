@@ -2,5 +2,5 @@
 import Functions 
 
 #Call the function to show the actual directory
-Functions.show_path()
+Functions.show_elements()
 
