@@ -1,13 +1,7 @@
 #Call of the libraries necessary for the program
-import os
+import Functions 
 
-#Function to show the actual directory
-def show_path():
-    #Get the actual path
-    path = os.getcwd() 
 
-    #Print the path
-    print(path)   
 
 #Call the function to show the actual directory
 show_path()
